@@ -1,4 +1,3 @@
-# Getting Started with Create React App
 # Frontend Mapas App
 
 ![MapaApp](https://live.staticflickr.com/65535/52193719298_784e1d8e1b_z.jpg "frontend mapapp")
